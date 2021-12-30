@@ -5,7 +5,7 @@ const app = express();
 
 const PORT = 9000;
 
-const banners = 
+/* const banners = 
 [
   {
       "path": "../img/kerala.jpg",
@@ -26,7 +26,7 @@ const banners =
       "path": "../img/boathouse.jpg",
 
   }
-];
+]; */
 
 // const MONGO_URL = "mongodb://localhost";
 
