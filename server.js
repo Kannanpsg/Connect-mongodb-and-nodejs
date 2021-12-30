@@ -177,6 +177,8 @@ app.listen(PORT, () => console.log("App is started in", PORT)); */
 
 /* 
 
+package.json
+
 {
   "name": "travelnode",
   "version": "1.0.0",
