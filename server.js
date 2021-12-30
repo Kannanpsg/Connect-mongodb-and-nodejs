@@ -169,3 +169,46 @@ app.get("/api/banner", (request, response) => {
 
 
 app.listen(PORT, () => console.log("App is started in", PORT)); */ 
+
+
+
+
+
+
+/* 
+
+{
+  "name": "travelnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.4",
+    "react-scripts": "^3.4.0"
+  }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
